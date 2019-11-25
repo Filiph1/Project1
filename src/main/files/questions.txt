@@ -1,0 +1,5 @@
+Filip Horak
+
+Start and stop  methods are primitives and will have defaults in the interface. The basic methods stay in interface.
+toString method must be implemented in skeletal implementation class. It's not a primitive method.
+Object class method cannot have default implementation in the interface.
